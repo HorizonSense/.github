@@ -1,2 +1,2 @@
 # horizonSense
-Interest in mcpe utility mods!
+Interest in utility mods!
